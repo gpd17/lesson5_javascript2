@@ -13,8 +13,7 @@ Gabby Dunlap
 In this lesson, I edited the taxBracket_Calculator.js code to show tax rates and amounts for 2018 based on filing stauts a (single, married filing jointly, married filing separately, and head of household). 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://gpd17.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
 1. I learned more about JavaScript and how to use it. One of the functions of JavaScript is the break and continue statement. The break statement breaks the loop and continues executing the code after the loop. While the continue statement, breaks one iteration and continues with the next iteration in the loop.
